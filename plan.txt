@@ -1,0 +1,12 @@
+Train the X-Ray detection Model and Save this model as pickle
+    1) Get the Data
+    2) Read the Data inti python
+    3) Prepare the data which sklearn's model accepts
+    4) Train the model
+    5) Save the model
+ 
+ Build a flask webapp which uses that model
+    1) HTML Page which accepts inage as input
+    2) Image will be read in the backend
+    3) It will be pre-processed
+    4) Finally model will be used to make the predictions
